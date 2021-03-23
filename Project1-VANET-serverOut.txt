@@ -1,0 +1,134 @@
+Initial GPS Position: 14 S 368058 3899192
+Initial Velocity: 110.0km/h
+Time Interval: 0.2s
+===========================================================================
+Packet Received:
+Sequence No. = 5895
+IP = 192.168.52.201
+GPS Postion = 14 S 368052 3899189
+Velocity = 110.99
+Acceleration = 1.38
+Brake Control = 0.0
+Gas Throttle = 0.46
+
+Ack Packet Sent:
+Type = Ack
+Sequence No. = 5895
+
+Packet Received:
+Sequence No. = 5896
+IP = 192.168.52.201
+GPS Postion = 14 S 368048 3899185
+Velocity = 112.88
+Acceleration = 2.63
+Brake Control = 0.0
+Gas Throttle = 0.88
+
+Ack Packet Sent:
+Type = Ack
+Sequence No. = 5896
+
+Packet Received:
+Sequence No. = 5897
+IP = 192.168.52.201
+GPS Postion = 14 S 368043 3899189
+Velocity = 114.87
+Acceleration = 2.77
+Brake Control = 0.0
+Gas Throttle = 0.92
+
+Ack Packet Sent:
+Type = Ack
+Sequence No. = 5897
+
+Packet Received:
+Sequence No. = 5898
+IP = 192.168.52.201
+GPS Postion = 14 S 368036 3899189
+Velocity = 114.75
+Acceleration = -0.16
+Brake Control = 0.05
+Gas Throttle = 0.0
+
+Ack Packet Sent:
+Type = Ack
+Sequence No. = 5898
+
+Packet Received:
+Sequence No. = 5899
+IP = 192.168.52.201
+GPS Postion = 14 S 368037 3899183
+Velocity = 113.94
+Acceleration = -1.12
+Brake Control = 0.37
+Gas Throttle = 0.0
+
+Ack Packet Sent:
+Type = Ack
+Sequence No. = 5899
+
+Packet Received:
+Sequence No. = 5900
+IP = 192.168.52.201
+GPS Postion = 14 S 368032 3899179
+Velocity = 113.02
+Acceleration = -1.28
+Brake Control = 0.43
+Gas Throttle = 0.0
+
+Ack Packet Sent:
+Type = Ack
+Sequence No. = 5900
+
+Packet Received:
+Sequence No. = 5901
+IP = 192.168.52.201
+GPS Postion = 14 S 368029 3899185
+Velocity = 111.96
+Acceleration = -1.47
+Brake Control = 0.49
+Gas Throttle = 0.0
+
+Ack Packet Sent:
+Type = Ack
+Sequence No. = 5901
+
+Packet Received:
+Sequence No. = 5902
+IP = 192.168.52.201
+GPS Postion = 14 S 368024 3899188
+Velocity = 112.95
+Acceleration = 1.38
+Brake Control = 0.0
+Gas Throttle = 0.46
+
+Ack Packet Sent:
+Type = Ack
+Sequence No. = 5902
+
+Packet Received:
+Sequence No. = 5903
+IP = 192.168.52.201
+GPS Postion = 14 S 368023 3899194
+Velocity = 114.06
+Acceleration = 1.54
+Brake Control = 0.0
+Gas Throttle = 0.51
+
+Ack Packet Sent:
+Type = Ack
+Sequence No. = 5903
+
+Packet Received:
+Sequence No. = 5904
+IP = 192.168.52.201
+GPS Postion = 14 S 368017 3899197
+Velocity = 116.09
+Acceleration = 2.82
+Brake Control = 0.0
+Gas Throttle = 0.94
+
+Ack Packet Sent:
+Type = Ack
+Sequence No. = 5904
+
